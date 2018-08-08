@@ -18,9 +18,9 @@
   "author": "Jacek Pietal (prozi85@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "canvas-prebuilt": "~1",
+    "canvas-prebuilt": "^1.6.5-prerelease.1",
     "jsdom": "latest",
     "jsdom-global": "latest",
-    "pixi.js": "latest"
+    "pixi.js": "git+ssh://git@github.com/lotum/pixi.js.git#v4.7.0"
   }
 }
